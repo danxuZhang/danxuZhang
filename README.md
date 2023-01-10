@@ -1,5 +1,6 @@
 ### Hi there 👋   
-I'm Danxu, a computer science 💻 student from Nanyang Technological University, Singapore and a photography enthusiast 📷 interested in landscape photography.
+I'm Danxu, a Computer Science 💻 student from Nanyang Technological University, Singapore and a photography enthusiast 📷 interested in landscape photography.  
+I'm now also an exchange student in National University of Singapore studying Computer Science.
 
 - 🔭 I’m currently working on building my photography blog website (link to be updated later).
 - 🌱 I’m currently learning Web Devlopment.
