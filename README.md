@@ -1,9 +1,9 @@
 ### Hi there 👋   
 I'm Danxu, a computer science 💻 student from Nanyang Technological University, Singapore and a photography enthusiast 📷 interested in landscape photography.
 
-- 🔭 I’m currently working on building my photography blog website.
+- 🔭 I’m currently working on building my photography blog website (link to be updated later).
 - 🌱 I’m currently learning Web Devlopment.
-- 📫 How to reach me: [dxzhang49@gmail.com](dxzhang49@gmail.com).
+- 📫 How to reach me: dxzhang49@gmail.com.
 
 [Personal Website](https://danxuZzz.github.io)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danxuZzz)](https://github.com/anuraghazra/github-readme-stats)
