@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Devlopment.
 - 📫 How to reach me: dxzhang49@gmail.com.
 
-[Personal Website](https://danxuZzz.github.io)  
+[Personal Website](https://danxuZhang.github.io)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danxuZzz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
