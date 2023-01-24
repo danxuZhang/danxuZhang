@@ -9,7 +9,7 @@
 
 [Personal Website](https://danxuZhang.github.io)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danxuZhang&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danxuZhang&count_private=true&layout=compact&hide=jupyter%20notebook,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danxuZhang&count_private=true&layout=compact&hide=jupyter%20notebook,SCSS,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **danxuZzz/danxuZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
