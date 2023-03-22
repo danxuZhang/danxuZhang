@@ -93,7 +93,7 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=danxuZhang&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxuZhang&hide_border=true&exclude_repo=danxuZhang.github.io&layout=compact&hide=jupyter%20notebook,vim%20script&show_icons=true&count_private=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxuZhang&hide_border=true&exclude_repo=danxuZhang.github.io&layout=compact&hide=jupyter%20notebook,html,css,vim%20script&show_icons=true&count_private=true" align="left" />  
 
 <br/>  
 
