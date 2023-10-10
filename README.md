@@ -85,7 +85,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxuZhang&hide_border=true&exclude_repo=danxuZhang.github.io,CSAPP&layout=compact&hide=jupyter%20notebook,html,css,vim%20script&show_icons=true&count_private=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxuZhang&hide_border=true&exclude_repo=danxuZhang.github.io,CSAPP,myBusTub,DistributedSystemLab&layout=compact&hide=jupyter%20notebook,html,css,vim%20script&show_icons=true&count_private=true" align="left" />  
 </div>
 
 <br/>  
