@@ -4,10 +4,10 @@
 - 📷 I'm also a photography enthusiast interested in travel and landscape photography. Here is my [Instagram](https://instagram.com/danxuphoto).  
  
 
-- 🔭 I’m currently working on Web development.  
+- 🔭 I’m currently working on Image processing and HPC.  
   
 
-- 🌱 I’m currently learning Digital Image Processing and HPC.  
+- 🌱 I’m currently learning Database Systems.  
   
 
 - 📫 How to reach me: dxzhang49@gmail.com.  
