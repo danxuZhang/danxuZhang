@@ -7,10 +7,12 @@
 - 🔭 I’m currently working on NeRF and HPC.  
   
 
-- 🌱 I’m currently learning Database Systems.  
+- 🌱 I’m currently learning Cloud Computing.  
   
 
 - 📫 How to reach me: dxzhang49@gmail.com.  
+
+- 🖋️ Here's my newly created [blog](https://danxuZhang.github.io).
   
 
 <br/>  
