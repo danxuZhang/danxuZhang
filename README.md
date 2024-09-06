@@ -4,7 +4,7 @@
 - 📷 I'm also a photography enthusiast interested in travel and landscape photography. Here is my [Instagram](https://instagram.com/danxuphoto).  
  
 
-- 🔭 I’m currently working on NeRF and HPC.  
+- 🔭 I’m currently working on HPC, Vector Database and building my HomeLab.  
   
 
 - 🌱 I’m currently learning Cloud Computing.  
