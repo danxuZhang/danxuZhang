@@ -7,12 +7,12 @@
 - 🔭 I’m currently working on HPC, Vector Database and building my HomeLab.  
   
 
-- 🌱 I’m currently learning Cloud Computing.  
+- 🌱 I’m currently learning Designing Data-Intensive Applications.  
   
 
-- 📫 How to reach me: dxzhang49@gmail.com.  
+- 📫 How to reach me: dxzhang49@outlook.com.  
 
-- 🖋️ Here's my newly created [blog](https://danxuZhang.github.io).
+- 🖋️ Here's my [blog](https://danxuZhang.github.io).
   
 
 <br/>  
