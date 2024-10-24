@@ -1,19 +1,18 @@
 ### I'm Danxu  👨‍💻 , a Computer Science Undergraduate at NTU 🇸🇬</div>  
   
+🔭 **My Interest**: High Performance Computing, Database System, Parallel Computing and Distributed Systems
 
-- 📷 I'm also a photography enthusiast interested in travel and landscape photography. Here is my [Instagram](https://instagram.com/danxuphoto).  
- 
+🍳 **My Skills**: Linux System Administration, HPC Application Optimization, Web Development
 
-- 🔭 I’m currently working on HPC, Vector Database and building my HomeLab.  
+🌱 I'm currently working on: Vector Databases, Home Lab
+
+📖 I’m currently learning _Designing Data-Intensive Applications_
   
+📷 I'm also a photography enthusiast interested in travel and landscape photography.  
 
-- 🌱 I’m currently learning Designing Data-Intensive Applications.  
-  
+📫 How to reach me: dxzhang49@outlook.com.
 
-- 📫 How to reach me: dxzhang49@outlook.com.  
-
-- 🖋️ Here's my [blog](https://danxuZhang.github.io).
-  
+[Instagram](https://instagram.com/danxu.zzz) | [Blog](https://danxuZhang.github.io) | [LinkedIn](https://danxuZhang.github.io)
 
 <br/>  
 
